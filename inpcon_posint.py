@@ -9,6 +9,8 @@ def inputcontrol(inptext):
     while True:
 		
             print('Enter "q" to exit.')
+            print('Please enter a positive integer.')
+            print()
             inp=input(inptext)
 
 	
@@ -23,14 +25,16 @@ def inputcontrol(inptext):
 
             except:
                 print()
-                print('Error: Please enter an integer.')
+                print('Error: Please enter a positive integer.')
+                print()
                 print()
                 continue
 
             if inp<0:
                 
                 print()
-                print('Error: Your number is smaller than zero!')
+                print('Error: Your integer is smaller than zero! Please enter a positive one.')
+                print()
                 print()
                 continue
 
