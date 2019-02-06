@@ -19,6 +19,5 @@ Type in a terminal (Linux):
 ### Where users can get help:
 Please write a comment.
 
-
-
+\n
 This project is licensed under the terms of the MIT license (see LICENSE).
