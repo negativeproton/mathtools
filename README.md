@@ -20,4 +20,4 @@ Type in a terminal (Linux):
 Please write a comment.
 
 
-###### This project is licensed under the terms of the MIT license (see LICENSE).
+###### This repository is licensed under the terms of the MIT license (see LICENSE).
